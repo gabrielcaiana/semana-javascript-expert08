@@ -1,13 +1,13 @@
-# JSExpertHub Pre-processing videos on browsers - Semana JS Expert 8.0
+# JSExpertHub Reimaging Video Upload - Semana JS Expert 8.0
 
 Seja bem vindo(a) à oitava Semana Javascript Expert. Este é o código inicial para iniciar nossa jornada.
 
-Marque esse projeto com uma estrela 🌟 e acesse o nosso [grupo oficial no WhatsApp](https://l.erickwendel.com.br/jse8-grupo)
+Marque esse projeto com uma estrela 🌟
+
 ## Preview
-<img width=100% src="./initial-template/demo.gif">
+<img width=100% src="./demo.gif">
 
 ## Pre-reqs
-
 - Este projeto foi criado usando Node.js v18.17.0
 - O ideal é que você use o projeto em ambiente Unix (Linux). Se você estiver no Windows, é recomendado que use o [Windows Subsystem Linux](https://www.omgubuntu.co.uk/how-to-install-wsl2-on-windows-10) pois nas aulas são mostrados comandos Linux que possam não existir no Windows.
 
@@ -39,10 +39,10 @@ Marque esse projeto com uma estrela 🌟 e acesse o nosso [grupo oficial no What
   - https://github.com/Vanilagy/webm-muxer
   - https://github.com/Vanilagy/mp4-muxer
 
-
-
 ### Links mostrados nos aulas:
-- Reuni todos os links em [referências](./referencias.md)
+
+- Reuni todos os links em [referências](./../referencias.md)
+
 ### Considerações
 - Tire suas dúvidas sobre os desafios em nossa comunidade, o objetivo é você aprender de forma divertida. Surgiu dúvidas? Pergunte por lá!
 
